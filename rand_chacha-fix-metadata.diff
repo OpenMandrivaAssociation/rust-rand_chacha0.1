@@ -1,0 +1,11 @@
+--- rand_chacha-0.1.1/Cargo.toml	1970-01-01T00:00:00+00:00
++++ rand_chacha-0.1.1/Cargo.toml	2020-01-15T19:00:00.028205+00:00
+@@ -27,7 +27,7 @@
+ version = ">=0.2, <0.4"
+ default-features = false
+ [build-dependencies.autocfg]
+-version = "0.1"
++version = "1"
+ [badges.appveyor]
+ repository = "rust-random/rand"
+ 
